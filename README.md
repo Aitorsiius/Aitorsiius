@@ -44,8 +44,11 @@
 ### ☁️ Cloud & DevOps  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="30" alt="Google Colab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Artillery-FF7E1B?style=for-the-badge&logo=Artillery&logoColor=white" height="30" alt="Artillery"/>
 </p>
 
 ### 🖥️ Operating Systems & Servers  
