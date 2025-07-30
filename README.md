@@ -65,11 +65,7 @@
 
 ### 🚀 Technologies I’m Learning  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/REST-007EC6?style=for-the-badge&logo=rest&logoColor=white" height="30" alt="REST"/>
-  <img src="https://img.shields.io/badge/SOAP-0133A1?style=for-the-badge&logo=soap&logoColor=white" height="30" alt="SOAP"/>
 </p>
 
 ---
